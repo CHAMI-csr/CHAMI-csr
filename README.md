@@ -7,7 +7,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/CHAMI-csr/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=CHAMI-csr&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
