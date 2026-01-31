@@ -1,37 +1,41 @@
-<h1 align="center">Hi there, I'm Chamika Sandeepa 👋</h1>
-<h3 align="center">Software Engineer | Co-Founder @ Luminx Solutions 🚀</h3>
-
-<p align="center">
-  Welcome to my GitHub profile! I'm an ICT student and developer passionate about building software solutions.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CHAMI-csr&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
-
----
-
-### 🛠 Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-### 🏆 My Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CHAMI-csr&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
-<br/>
+<h1 align="center">Hi there, I'm Chamika Sandeepa! <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8u9z/giphy.gif" width="30px"></h1>
+<h3 align="center">Software Engineer | Co-Founder @ Luminx Solutions</h3>
 
-### 🔥 My Streaks
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/CHAMI-csr/count.svg" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Luminx Solutions Projects**
+- 🌱 I’m currently learning **Advanced Software Engineering**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- ⚡ Fun fact: **I love Coding & Gaming!**
+
+---
+
+### 🛠 Tech Stack
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CHAMI-csr&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+
+---
+
+### 🤝 Connect with Me
+<div align="center">
+<a href="https://github.com/CHAMI-csr" target="blank"><img align="center" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="chamika github"/></a>
 </div>
