@@ -25,15 +25,13 @@
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <a href="https://github.com/CHAMI-csr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHAMI-csr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/CHAMI-csr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAMI-csr&layout=compact&theme=dark"/>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHAMI-csr&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+[![Chamika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHAMI-csr&show_icons=true&theme=dark)](https://github.com/CHAMI-csr)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHAMI-csr&layout=compact&theme=dark)](https://github.com/CHAMI-csr)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CHAMI-csr&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
