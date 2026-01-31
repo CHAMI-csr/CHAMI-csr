@@ -24,14 +24,14 @@
 
 ---
 
-### 📊 My GitHub Stats
-
+### 🏆 My Achievements
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CHAMI-csr&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
-[![Chamika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHAMI-csr&show_icons=true&theme=dark)](https://github.com/CHAMI-csr)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHAMI-csr&layout=compact&theme=dark)](https://github.com/CHAMI-csr)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CHAMI-csr&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+### 🔥 My Streaks
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CHAMI-csr&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
