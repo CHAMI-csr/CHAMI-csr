@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Chamika Sandeepa 👋</h1>
+<h3 align="center">Software Engineer | Co-Founder @ Luminx Solutions 🚀</h3>
 
-<!--
-**CHAMI-csr/CHAMI-csr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Welcome to my GitHub profile! I'm an ICT student and developer passionate about building software solutions.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CHAMI-csr&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 📊 My GitHub Stats
+<p align="center">
+  <a href="https://github.com/CHAMI-csr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHAMI-csr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/CHAMI-csr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAMI-csr&layout=compact&theme=dark"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHAMI-csr&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
