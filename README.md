@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Chamika Sandeepa! <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8u9z/giphy.gif" width="30px"></h1>
-<h3 align="center">Software Developer/h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center"> 
   Visitor count<br>
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Advanced Software Engineering**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- ⚡ Fun fact: **I love Coding & Gaming!**
+- ⚡ Fun fact: **I love Coding & Gaming (especially Valorant and Red Dead Redemption 2)!**
 
 ---
 
@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
