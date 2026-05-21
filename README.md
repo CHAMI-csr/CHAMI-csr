@@ -1,42 +1,60 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="Header Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="Cyberpunk Header"/>
 </div>
 
-<h1 align="center">Hi there, I'm Chamika Sandeepa! <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8u9z/giphy.gif" width="30px" alt="Waving Hand"></h1>
-<h3 align="center">Software Developer</h3>
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Chamika+Sandeepa+👋;Software+Developer+💻;Welcome+to+my+Profile!+🚀" alt="Typing Animation" />
+  </a>
+</div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=CHAMI-csr&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CHAMI-csr&style=flat-square&color=00FF99&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🌱 I’m currently expanding my knowledge in **Advanced Software Engineering**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🎮 **Fun fact:** When I'm not coding, I'm usually gaming (*Valorant, Red Dead Redemption 2, MLBB, Minecraft*) or listening to fast-paced music.
+<table align="center" style="border: none;">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🌱 Currently expanding my knowledge in <b>Advanced Software Engineering</b></li>
+        <li>👯 Looking to collaborate on <b>Open Source Projects</b></li>
+        <li>🎮 <b>Hobbies:</b> Coding, Gaming <i>(Valorant, RDR2, MLBB)</i> & listening to fast-paced music.</li>
+        <li>⚡ <b>Vibe:</b> Dark themes & Cyberpunk aesthetics</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">🛠️ Tech Stack</h3>
+      <div align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,php,html,css,tailwind,electron,mysql,figma&theme=dark&perline=4" alt="Tech Stack Icons"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-
-
-### 🛠 Tech Stack
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHAMI-csr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=CHAMI-csr&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAMI-csr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
-### 🤝 Connect with Me
 <div align="center">
-<a href="https://github.com/CHAMI-csr" target="blank"><img align="center" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="chamika github"/></a>
+  <h3>🤝 Let's Connect</h3>
+  <a href="https://github.com/CHAMI-csr" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="chamika github"/>
+  </a>
 </div>
