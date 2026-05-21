@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="Header Animation"/>
 </div>
 
-<h1 align="center">Hi there, I'm Chamika Sandeepa! <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8u9z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Chamika Sandeepa! <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8u9z/giphy.gif" width="30px" alt="Waving Hand"></h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="center"> 
-  Visitor count<br>
   <img src="https://komarev.com/ghpvc/?username=CHAMI-csr&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
@@ -14,9 +13,23 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Advanced Software Engineering**
+- 🌱 I’m currently expanding my knowledge in **Advanced Software Engineering**
+- 🔭 I’m currently working on **SDLMS** and **FutureMind** (Online LMS)
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- ⚡ Fun fact: **I love Coding & Gaming (especially Valorant and Red Dead Redemption 2)!**
+- 🎮 **Fun fact:** When I'm not coding, I'm usually gaming (*Valorant, Red Dead Redemption 2, MLBB, Minecraft*) or listening to fast-paced music.
+- 💻 **My Current Rig:** i5 3rd Gen | B75 Motherboard | 16GB RAM | GTX 1060 6GB
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHAMI-csr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHAMI-csr&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAMI-csr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
