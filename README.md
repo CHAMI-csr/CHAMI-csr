@@ -16,7 +16,7 @@
 - 🌱 I’m currently expanding my knowledge in **Advanced Software Engineering**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🎮 **Fun fact:** When I'm not coding, I'm usually gaming (*Valorant, Red Dead Redemption 2, MLBB, Minecraft*) or listening to fast-paced music.
-- 💻 **My Current Rig:** i5 3rd Gen | B75 Motherboard | 16GB RAM | GTX 1060 6GB
+
 
 ---
 
