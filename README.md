@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Chamika Sandeepa! <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8u9z/giphy.gif" width="30px"></h1>
-<h3 align="center">Software Engineer | Co-Founder @ Luminx Solutions</h3>
+<h3 align="center">Software Developer/h3>
 
 <p align="center"> 
   Visitor count<br>
@@ -14,7 +14,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Luminx Solutions Projects**
 - 🌱 I’m currently learning **Advanced Software Engineering**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - ⚡ Fun fact: **I love Coding & Gaming!**
