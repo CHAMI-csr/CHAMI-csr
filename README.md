@@ -41,9 +41,6 @@
 ---
 
 
-
----
-
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <a href="https://github.com/CHAMI-csr" target="blank">
