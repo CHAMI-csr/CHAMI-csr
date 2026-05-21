@@ -40,15 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHAMI-csr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=CHAMI-csr&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAMI-csr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" width="48%" />
-</div> -->
+
 
 ---
 
