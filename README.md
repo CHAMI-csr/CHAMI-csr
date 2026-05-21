@@ -17,17 +17,16 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🎮 **Fun fact:** When I'm not coding, I'm usually gaming (*Valorant, Red Dead Redemption 2, MLBB, Minecraft*) or listening to fast-paced music.
 
-
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHAMI-csr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHAMI-csr&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHAMI-csr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHAMI-csr&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAMI-csr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAMI-csr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" width="48%" />
 </div>
 
 ---
